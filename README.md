@@ -1,7 +1,7 @@
 # SueldoHorizonte
-##Los objetivos del proyecto
+## Objetivos del proyecto
   Implementar el calculo del sueldo a pagar por la empresa horizonte  
-##Integrantes del equipo de desarrollo
+## Integrantes del equipo de desarrollo
 | Apellidos y nombres | Rol | 
 |---------------------| ---- |
 | Escobar Ccanto Samuel  | Desarrollador  |

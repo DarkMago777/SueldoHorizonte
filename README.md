@@ -9,6 +9,9 @@
 | Nolasco Meza Nilton Anthony  | Desarrollador  |
 | Ramirez Crispin William | Desarrollador  |
 | Taype Huarocc Jeanpier| Desarrollador  |
+## Listado de historias de usuario (product backlog priorizada)
+| Prioridad | Identificador | Nombre (alias) | Punto de historia (días ideales) | Responsable |
+
 
 
 

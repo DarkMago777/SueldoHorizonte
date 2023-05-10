@@ -4,11 +4,12 @@
 ## Integrantes del equipo de desarrollo
 | Apellidos y nombres | Rol | 
 |---------------------| ---- |
-| Escobar Ccanto Samuel  | Desarrollador  |
-| Leiva Leiva Juan  | Desarrollador  |
-| Nolasco Meza Nilton Anthony  | Desarrollador  |
-| Ramirez Crispin William | Desarrollador  |
-| Taype Huarocc Jeanpier| Desarrollador  |
+|Escobar Ccanto Samuel| Desarrollador|
+|Leiva Leiva Juan| Desarrollador|
+|Nolasco Meza Nilton Anthony|Desarrollador|
+|Ramirez Crispin William|Desarrollador|
+|Ramos Canchomonia Malher|Desarrollador|
+|Taype Huarocc Jeanpier|Desarrollador|
 ## Listado de historias de usuario (product backlog priorizada)
 | Prioridad | Identificador |  Nombre (alias) | Descripción | Punto de historia (días ideales) | Responsable |
 |-----------|---------------|-----------------|-------------|----------------------------------|-------------|

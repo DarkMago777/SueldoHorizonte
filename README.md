@@ -1,6 +1,17 @@
 # SueldoHorizonte
 ## Objetivos del proyecto
-  Implementar el calculo del sueldo a pagar por la empresa horizonte  
+Implementar en Python un algoritmo para calcular el sueldo a pagar a un trabajador de la empresa "Horizonte" siguiendo las especificaciones dadas.
+
+Aplicar el desarrollo guiado por pruebas, lo que significa que se deben crear casos de prueba para verificar que el algoritmo funciona correctamente.
+
+Aplicar el control de versiones, lo que implica que se debe utilizar una herramienta de control de versiones (por ejemplo, Git) para mantener un registro de los cambios realizados en el código.
+
+Dividir el proceso de implementación en refinamientos para facilitar el desarrollo y asegurar que cada parte del algoritmo funcione correctamente antes de pasar a la siguiente.
+
+Calcular el sueldo neto a pagar al trabajador considerando las bonificaciones y descuentos especificados en la consigna.
+
+Imprimir la boleta de pago del trabajador con los detalles del sueldo neto, bonificaciones y descuentos.
+
 ## Integrantes del equipo de desarrollo
 | Apellidos y nombres | Rol | 
 |---------------------| ---- |

@@ -1,5 +1,6 @@
-# SueldoHorizonte
+# SUELDO HORIZONTE
 ## Objetivos del proyecto
+
 Implementar en Python un algoritmo para calcular el sueldo a pagar a un trabajador de la empresa "Horizonte" siguiendo las especificaciones dadas.
 
 Aplicar el desarrollo guiado por pruebas, lo que significa que se deben crear casos de prueba para verificar que el algoritmo funciona correctamente.
